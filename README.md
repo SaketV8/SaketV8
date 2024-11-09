@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I am an undergraduate student at ABES Engineering College, Ghaziabad, India.</h3>
+<h3 align="center">I am an undergraduate B.Tech student from India.</h3>
 
 ###
 
