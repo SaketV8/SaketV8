@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Web Dev**
 - 👀 I’m interested in **Backend Development**
 - 🍅 I am an Android developer at heart, learning web development to establish my presence on the web.
-- ⚡ Fun fact: **Somewhere, something incredible is waiting to be known**
+- ⚡ Fun fact **Somewhere, something incredible is waiting to be known**
 
 </p>
 
@@ -39,6 +39,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
